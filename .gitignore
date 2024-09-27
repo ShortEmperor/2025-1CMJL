@@ -399,3 +399,4 @@ FodyWeavers.xsd
 *.exe
 .DS_Store
 .vscode/
+venv
